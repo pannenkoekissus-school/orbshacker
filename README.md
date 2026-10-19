@@ -175,7 +175,7 @@ orbshacker/
 └── .github/
     └── workflows/
         └── release.yml    Tests + PyInstaller build + GitHub Release automation
-        └── ci.yml         CI/DC Pipeline: Test/lint
+        └── ci.yml         CI/CD Pipeline: Test/lint
 
 ```
 
